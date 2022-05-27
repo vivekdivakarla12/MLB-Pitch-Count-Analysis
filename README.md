@@ -1,3 +1,3 @@
-# pitch_count_project
+# Pitch Count Project
 
 Baseball Pitch Count Project
