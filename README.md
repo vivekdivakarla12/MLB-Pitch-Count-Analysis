@@ -29,5 +29,5 @@ This graph shows 10 of the worst players in the MLB, and graphs their OPS for ea
 <img width="582" alt="Screen Shot 2023-01-12 at 7 24 08 PM" src="https://user-images.githubusercontent.com/11672096/212208854-8a5ed084-1b5d-4ccb-bea4-a9a56fa2b3dc.png">
 When looking at the OPS of the hitters on different counts, we wanted to compare them together to see if the league’s best were just dominating early and advantageous counts, or could do it on all counts. Looking at this graph, with the exception of 2-0, the star hitters were consistently at the top end of the box plot, while the worse hitters stayed near the bottom. Even though the 2 strike counts are closer, there is still a difference between the two different sets of players
 
-#Conclusion
+# Conclusion
 In conclusion, we determined that even though all players do better on more favorable counts in comparison to the less favorable ones, there are still clear differences between the best and worst players on all counts. It’s interesting how the jumps between counts are pretty consistent between the entire league. 
